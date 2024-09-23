@@ -8,7 +8,7 @@ services:
       - ./app:/app
     networks:
       - neo4j_network
-    container_name: python-andrei
+    container_name: python-andrei-new-versiontedawdwa
     depends_on:
       - neo4j
 
