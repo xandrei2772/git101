@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 
 if __name__=="__main__":
 
-    URI = "bolt://neo4j-andrei:7687"
+    URI = "bolt://neo4j-andrei:portnumber"
 
     driver = GraphDatabase.driver(URI, auth=("neo4j", "password"))
 
