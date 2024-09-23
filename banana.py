@@ -1,1 +1,6 @@
-print("i eat nhdiuwhadoiuwbduiwas")
+print("""i eat nhdiuwhadoiuwbduiwas
+      fsfesfesfe
+      dawdawd
+      wdawdwa
+      wdadwa
+      """)
